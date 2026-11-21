@@ -1,0 +1,186 @@
+﻿Phase,Feature,Sub Feature,Learned Template 1,Planned Template 2
+Phase 0 - Foundations,Product & Domain Understanding,Overall product problem and value proposition,☐,☐
+Phase 0 - Foundations,Product & Domain Understanding,"Target users, actors, and user roles",☐,☐
+Phase 0 - Foundations,Product & Domain Understanding,Core user journeys and trip lifecycle,☐,☐
+Phase 0 - Foundations,Product & Domain Understanding,Core domain concepts and terminology,☐,☐
+Phase 0 - Foundations,Product & Domain Understanding,Major entities and relationships,☐,☐
+Phase 0 - Foundations,System & Architecture Foundations,Module boundaries and responsibilities,☐,☐
+Phase 0 - Foundations,System & Architecture Foundations,Module dependencies and data flows,☐,☐
+Phase 0 - Foundations,System & Architecture Foundations,Domain rules versus UI behaviour,☐,☐
+Phase 0 - Foundations,System & Architecture Foundations,API-first architecture principles,☐,☐
+Phase 0 - Foundations,System & Architecture Foundations,Modular monolith principles,☐,☐
+Phase 1 - Identity and Trip Foundation,User Account,User registration and account creation,☐,☐
+Phase 1 - Identity and Trip Foundation,User Account,Authentication and login,☐,☐
+Phase 1 - Identity and Trip Foundation,User Account,User profile management,☐,☐
+Phase 1 - Identity and Trip Foundation,Trip Management,Trip creation,☐,☐
+Phase 1 - Identity and Trip Foundation,Trip Management,Trip details and metadata,☐,☐
+Phase 1 - Identity and Trip Foundation,Trip Management,Trip dates and destination information,☐,☐
+Phase 1 - Identity and Trip Foundation,Trip Management,Multiple trips per user,☐,☐
+Phase 1 - Identity and Trip Foundation,Trip Management,Draft and planning states,☐,☐
+Phase 1 - Identity and Trip Foundation,Trip Management,Trip editing,☐,☐
+Phase 1 - Identity and Trip Foundation,Trip Management,Basic trip lifecycle,☐,☐
+Phase 2 - Membership and Collaboration,Invitations,Email invitations,☐,☐
+Phase 2 - Membership and Collaboration,Invitations,Accepting invitations,☐,☐
+Phase 2 - Membership and Collaboration,Invitations,Rejecting invitations,☐,☐
+Phase 2 - Membership and Collaboration,Invitations,Pending invitations,☐,☐
+Phase 2 - Membership and Collaboration,Invitations,Expired invitations,☐,☐
+Phase 2 - Membership and Collaboration,Invitations,Cancelled invitations,☐,☐
+Phase 2 - Membership and Collaboration,Invitations,Duplicate invitations,☐,☐
+Phase 2 - Membership and Collaboration,Membership & Permissions,Trip membership,☐,☐
+Phase 2 - Membership and Collaboration,Membership & Permissions,Trip-scoped Owner role,☐,☐
+Phase 2 - Membership and Collaboration,Membership & Permissions,Trip-scoped Admin role,☐,☐
+Phase 2 - Membership and Collaboration,Membership & Permissions,Trip-scoped Editor role,☐,☐
+Phase 2 - Membership and Collaboration,Membership & Permissions,Trip-scoped Viewer role,☐,☐
+Phase 2 - Membership and Collaboration,Membership & Permissions,Role changes,☐,☐
+Phase 2 - Membership and Collaboration,Membership & Permissions,Member removal,☐,☐
+Phase 2 - Membership and Collaboration,Membership & Permissions,Member leaving a trip,☐,☐
+Phase 2 - Membership and Collaboration,Membership & Permissions,Ownership transfer,☐,☐
+Phase 2 - Membership and Collaboration,Group Collaboration,Comments and discussions,☐,☐
+Phase 2 - Membership and Collaboration,Group Collaboration,Reactions,☐,☐
+Phase 2 - Membership and Collaboration,Group Collaboration,Poll creation and voting,☐,☐
+Phase 2 - Membership and Collaboration,Group Collaboration,Group decision-making,☐,☐
+Phase 2 - Membership and Collaboration,Group Collaboration,Suggestion approval before itinerary update,☐,☐
+Phase 2 - Membership and Collaboration,Group Collaboration,Activity history,☐,☐
+Phase 2 - Membership and Collaboration,Group Collaboration,Audit trails,☐,☐
+Phase 3 - Places and Destination Data,Place Management,Adding a place manually,☐,☐
+Phase 3 - Places and Destination Data,Place Management,Editing a place,☐,☐
+Phase 3 - Places and Destination Data,Place Management,Deleting a place,☐,☐
+Phase 3 - Places and Destination Data,Place Management,Place information and metadata,☐,☐
+Phase 3 - Places and Destination Data,Place Management,Place categories,☐,☐
+Phase 3 - Places and Destination Data,Place Management,Address and geographical coordinates,☐,☐
+Phase 3 - Places and Destination Data,Place Management,Place descriptions,☐,☐
+Phase 3 - Places and Destination Data,Place Management,Place images,☐,☐
+Phase 3 - Places and Destination Data,Place Management,Estimated visit duration,☐,☐
+Phase 3 - Places and Destination Data,Place Management,Personal notes,☐,☐
+Phase 3 - Places and Destination Data,Bucket List,Bucket List management,☐,☐
+Phase 3 - Places and Destination Data,Bucket List,Adding places to a trip,☐,☐
+Phase 3 - Places and Destination Data,Bucket List,Moving places between Bucket List and itinerary,☐,☐
+Phase 4 - Itinerary and Scheduling,Itinerary Structure,Creating an itinerary,☐,☐
+Phase 4 - Itinerary and Scheduling,Itinerary Structure,Day-wise itinerary organization,☐,☐
+Phase 4 - Itinerary and Scheduling,Itinerary Structure,Adding activities to a day,☐,☐
+Phase 4 - Itinerary and Scheduling,Itinerary Structure,Unscheduled Bucket List,☐,☐
+Phase 4 - Itinerary and Scheduling,Scheduling & Editing,Scheduling activity dates and times,☐,☐
+Phase 4 - Itinerary and Scheduling,Scheduling & Editing,Reordering activities,☐,☐
+Phase 4 - Itinerary and Scheduling,Scheduling & Editing,Moving activities between days,☐,☐
+Phase 4 - Itinerary and Scheduling,Scheduling & Editing,Estimated activity duration,☐,☐
+Phase 4 - Itinerary and Scheduling,Scheduling & Editing,Time conflicts and overlapping schedules,☐,☐
+Phase 4 - Itinerary and Scheduling,Scheduling & Editing,Editing itinerary activities,☐,☐
+Phase 4 - Itinerary and Scheduling,Scheduling & Editing,Removing itinerary activities,☐,☐
+Phase 4 - Itinerary and Scheduling,Collaborative Itinerary,Group collaboration on itinerary changes,☐,☐
+Phase 4 - Itinerary and Scheduling,Collaborative Itinerary,Handling approved suggestions,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Map Experience,Displaying trip locations on a map,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Map Experience,Displaying itinerary places as map markers,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Map Experience,Day-wise map views,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Map Experience,Selecting and highlighting a place,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Routing & Geospatial,Ordering locations into a route,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Routing & Geospatial,Distance calculation,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Routing & Geospatial,Travel-time estimation,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Routing & Geospatial,Route visualization,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Routing & Geospatial,Geographical coordinates and storage,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Routing & Geospatial,Map provider integration,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Member Location,Member location sharing,☐,☐
+"Phase 5 - Maps, Geospatial and Routing",Member Location,Displaying last-shared member location,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Visit Status,Upcoming activity state,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Visit Status,In Progress activity state,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Visit Status,Visited activity state,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Visit Status,Skipped activity state,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Visit Status,Actual arrival time,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Visit Status,Actual departure time,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Schedule Adaptation,Planned versus actual timing,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Schedule Adaptation,Recalculating expected activity times,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Schedule Adaptation,Handling delayed activities,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Schedule Adaptation,Suggesting itinerary adjustments,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Schedule Adaptation,User confirmation before itinerary changes,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Travel Companion,Manual member location sharing,☐,☐
+Phase 6 - Travel Execution and Dynamic Scheduling,Travel Companion,Travel companion experience,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Management,Creating an expense,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Management,Editing an expense,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Management,Deleting an expense,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Management,Expense categories,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Management,Multiple payers,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Splitting,Equal expense splitting,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Splitting,Custom amount splitting,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Splitting,Percentage-based splitting,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Splitting,Member-specific expense shares,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Splitting,Including members in an expense,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Splitting,Excluding members from an expense,☐,☐
+Phase 7 - Expense Management and Settlement,Balances & Settlements,Individual balances,☐,☐
+Phase 7 - Expense Management and Settlement,Balances & Settlements,Net balance calculation,☐,☐
+Phase 7 - Expense Management and Settlement,Balances & Settlements,Simplifying settlements,☐,☐
+Phase 7 - Expense Management and Settlement,Balances & Settlements,Recording settlements,☐,☐
+Phase 7 - Expense Management and Settlement,Balances & Settlements,Settlement history,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Reporting & Integrity,Expense reports and exports,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Reporting & Integrity,Expense corrections,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Reporting & Integrity,Decimal precision and rounding,☐,☐
+Phase 7 - Expense Management and Settlement,Expense Reporting & Integrity,Financial history and auditability,☐,☐
+Phase 8 - Reservation Management,Reservation Types,Hotel reservations,☐,☐
+Phase 8 - Reservation Management,Reservation Types,Flight reservations,☐,☐
+Phase 8 - Reservation Management,Reservation Types,Train reservations,☐,☐
+Phase 8 - Reservation Management,Reservation Types,Bus reservations,☐,☐
+Phase 8 - Reservation Management,Reservation Types,Restaurant reservations,☐,☐
+Phase 8 - Reservation Management,Reservation Types,Activity and attraction bookings,☐,☐
+Phase 8 - Reservation Management,Reservation Details,Reservation details,☐,☐
+Phase 8 - Reservation Management,Reservation Details,Booking reference and confirmation number,☐,☐
+Phase 8 - Reservation Management,Reservation Details,Reservation dates and times,☐,☐
+Phase 8 - Reservation Management,Reservation Details,Amount and payment details,☐,☐
+Phase 8 - Reservation Management,Reservation Details,Booking website or provider,☐,☐
+Phase 8 - Reservation Management,Reservation Details,Attachments and confirmation documents,☐,☐
+Phase 8 - Reservation Management,Reservation Details,Reservation notes,☐,☐
+Phase 8 - Reservation Management,Reservation Details,Reservation status,☐,☐
+Phase 8 - Reservation Management,Reservation Details,Editing reservations,☐,☐
+Phase 8 - Reservation Management,Reservation Details,Cancellation tracking,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Completed Trips,Completing a trip,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Completed Trips,Viewing completed trips,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Completed Trips,Editing completed trip information,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Completed Trips,Preserving historical records,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Completed Trips,Deleting a completed trip,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Trip Journal,Creating journal entries,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Trip Journal,Day-wise journal organization,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Trip Journal,Adding notes and descriptions,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Trip Journal,Member contributions,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Trip Journal,Associating journal entries with visited locations,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Media Management,Uploading trip photos,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Media Management,Attaching media to places and activities,☐,☐
+"Phase 9 - Journal, Media and Completed Trips",Media Management,Historical content access control,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Events,Invitation notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Events,Member joined or left notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Events,Role change notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Events,Poll creation and result notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Events,Comments and mention notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Events,Itinerary change notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Events,Expense update notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Events,Settlement notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Events,Reservation change notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Events,Journal update notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Experience,Activity feed,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Experience,Notification preferences,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Experience,Read and unread states,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Experience,In-app notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Experience,Future email notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Notification Experience,Future push notifications,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Delivery & Reliability,Notification generation from business events,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Delivery & Reliability,Asynchronous notification processing,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Delivery & Reliability,Delivery retries,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Delivery & Reliability,Idempotent delivery,☐,☐
+Phase 10 - Notifications and Cross-Module Workflows,Delivery & Reliability,Notification failure handling,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Security,Authentication and authorization review,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Security,API security,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Security,Input validation,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Security,File and media security,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Security,Rate limiting,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Data & Reliability,Database integrity,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Data & Reliability,Transaction management,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Data & Reliability,Concurrency handling,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Data & Reliability,Error handling,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Data & Reliability,Backup and recovery,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Performance & Operations,Logging and observability,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Performance & Operations,Performance optimization,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Performance & Operations,Caching,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Performance & Operations,Background jobs,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Performance & Operations,Deployment architecture,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Performance & Operations,Monitoring and reliability,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Testing & Evolution,Unit testing strategy,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Testing & Evolution,Integration testing strategy,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Testing & Evolution,End-to-end testing strategy,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Testing & Evolution,Scalability review,☐,☐
+"Phase 11 - Production Architecture, Security and Quality",Testing & Evolution,Future service extraction decisions,☐,☐
